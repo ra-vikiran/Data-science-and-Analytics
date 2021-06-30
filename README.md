@@ -1,2 +1,2 @@
 # Data-science-and-Analytics
-All the work I have done while I'm learning the Data science and Analytics have been uploaded here.
+All the work I have done while learning the Data science and Analytics tools have been uploaded here.
